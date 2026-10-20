@@ -1,6 +1,6 @@
 # Plane Poultry Panic
 
-**[Play it in your browser](https://mvdmakesthings.github.io/plane-poultry-panic-play/)**
+**[Play it in your browser](https://planepoultrypanic.mvdmakesthings.com/)**, or on [itch.io](https://mvdmakesthings.itch.io/plane-poultry-panic).
 
 A 16-bit action game: you're a stranded passenger in an airport overrun by chickens powered up by magic mushrooms. You can't fight back, so you outsmart them with snacks, a fire extinguisher, luggage carts, the baggage carousel and good hiding spots, and try to catch the last flight out.
 
