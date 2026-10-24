@@ -17,4 +17,4 @@ Click the game once so it gets your keyboard, then:
 | Drop the selected item | G | Back |
 | Pause | Esc | Start |
 
-This repository only holds the exported web build, hosted on Vercel. Current version: v0.1.0, a playtest build; the art and music are first-pass placeholders.
+This repository only holds the exported web build, hosted on Vercel. Current version: v0.4.0, a playtest build; the art and music are first-pass placeholders.
